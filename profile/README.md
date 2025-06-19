@@ -11,10 +11,10 @@ Central home for all club apps and websites.
 | Teams (BSM)                                 | 🟢      | 🟢      | 🔴          | 🔴          |                                                                  |
 | Teams (internal)                            | 🟢      | 🟢      | 🟢          | 🟢          |                                                                  |
 | Club data (board, umpire, scorer, ballpark) | 🟢      | 🟢      | 🔴          | 🟡          | website: elected officials only, rest provided as CMS data       |
-| Home Screen                                 | 🔴      | 🟢      | 🔴          | 🔴          |                                                                  |
-| Save Favourite Team (persisted)             | 🔴      | 🟢      | 🔴          | 🔴          |                                                                  |
-| Home: Charts                                | 🔴      | 🟢      | 🔴          | 🔴          |                                                                  |
-| Home: Next and previous Game                | 🔴      | 🟢      | 🔴          | 🔴          |                                                                  |
+| Home Screen                                 | 🔴      | 🟢      | 🔴          | ⚫️          |                                                                  |
+| Save Favourite Team (persisted)             | 🔴      | 🟢      | 🔴          | ⚫️          |                                                                  |
+| Home: Charts                                | 🔴      | 🟢      | 🔴          | ⚫️          |                                                                  |
+| Home: Next and previous Game                | 🔴      | 🟢      | 🔴          | ⚫️          |                                                                  |
 | add games to calendar/.ics export           | 🔴      | 🟢      | 🟢          | 🔴          |                                                                  |
 | share game data                             | 🔴      | 🟢      | 🔴          | 🔴          |                                                                  |
 | Map for games – links or display            | 🟢      | 🟢      | 🟢          | 🟢          | iOS has Apple Maps integration, all others use links             |
@@ -34,4 +34,4 @@ Central home for all club apps and websites.
 |🟢|available|
 |🟡|partly available|
 |🔴|unavailable|
-|⚫️ |not applicable|
+|⚫️ |not planned|
