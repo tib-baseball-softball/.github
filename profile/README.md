@@ -16,7 +16,7 @@ Central home for all club apps and websites.
 | Home: Charts                                | 🟢      | 🟢      | 🔴          | ⚫️          |                                                                  |
 | Home: Next and previous Game                | 🟢      | 🟢      | 🔴          | ⚫️          |                                                                  |
 | add games to calendar/.ics export           | 🔴      | 🟢      | 🟢          | 🔴          |                                                                  |
-| share game data                             | 🔴      | 🟢      | 🔴          | 🔴          |                                                                  |
+| share game data                             | 🟢      | 🟢      | 🔴          | 🔴          |                                                                  |
 | Map for games – links or display            | 🟢      | 🟢      | 🟢          | 🟢          | iOS has Apple Maps integration, all others use links             |
 | aggregated team records                     | ⚫️      | 🟢      | 🔴          | 🔴          |                                                                  |
 | game boxscores                              | 🟢      | 🔴      | 🔴          | 🟢          |                                                                  |
