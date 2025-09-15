@@ -24,7 +24,7 @@ Central home for all club apps and websites.
 | league stats leaderboards                   | 🟢      | 🔴      | 🔴          | 🔴          |                                                                  |
 | team stats                                  | 🟢      | 🔴      | 🔴          | 🔴          |                                                                  |
 | individual stats                            | 🟢      | 🔴      | 🔴          | 🔴          |                                                                  |
-| player list and profile                     | 🟡      | 🟢      | 🟢          | 🟢          | PWA: profile only                                                |
+| player list and profile                     | 🟢      | 🟢      | 🟢          | 🟢          | PWA: profile only                                                |
 | DIAMOND PLANNER                             | 🟢      | 🔴      | 🔴          | ⚫️          |                                                                  |
 
 ### Legend:
